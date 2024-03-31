@@ -15,4 +15,4 @@ Este repositório é parte do desafio "100 Dias de Código", onde documento minh
 
 Se você tiver alguma dúvida, sugestão ou quiser trocar ideias, sinta-se à vontade para entrar em contato comigo via e-mail ou pelo LinkedIn.  
 E-mail: p3dro.albuquerque@gmail.com  
-LinkedIn: linkedin.com/in/pedroalbuqu3rque/
+LinkedIn: www.linkedin.com/in/pedroalbuqu3rque/
